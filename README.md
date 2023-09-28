@@ -24,5 +24,5 @@
 
 ## Screenshots
 
-[screenshot](https://github.com/SantiagoEmanuel/minimalBlogCard/blob/master/public/screenshot-pcView.png "The pc view")
-[screenshot](https://github.com/SantiagoEmanuel/minimalBlogCard/blob/master/public/screenshot-mobileView.png "The mobile view")
+![screenshot](https://github.com/SantiagoEmanuel/minimalBlogCard/blob/master/public/screenshot-pcView.png "The pc view")
+![screenshot](https://github.com/SantiagoEmanuel/minimalBlogCard/blob/master/public/screenshot-mobileView.png "The mobile view")
