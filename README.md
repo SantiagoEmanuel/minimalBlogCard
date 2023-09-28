@@ -19,8 +19,10 @@
 - CSS
 - TailwindCss
 - JavaScript
+- Vite
 - Git and Github
 
 ## Screenshots
 
-[screenshot](?)
+[screenshot](https://github.com/SantiagoEmanuel/minimalBlogCard/blob/master/public/screenshot-pcView.png "The pc view")
+[screenshot](https://github.com/SantiagoEmanuel/minimalBlogCard/blob/master/public/screenshot-mobileView.png "The mobile view")
